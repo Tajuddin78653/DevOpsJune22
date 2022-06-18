@@ -1,8 +1,1 @@
-Learning DevOps "Hello World"
-Testing file data 
-Testing file data 1 
-<<<<<<< HEAD
-Devops training classes
-=======
-Branching 
->>>>>>> 2f4e1a92aa105ada40a9f456c3c4ea59be35b6cb
+testing1
