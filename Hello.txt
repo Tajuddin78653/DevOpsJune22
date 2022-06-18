@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 testing1
 =======
 testing2
@@ -11,3 +12,6 @@ testing5
 testing2
 testing6
 >>>>>>> 00fbaa6 (testing 6)
+=======
+testing2
+>>>>>>> 0558966 (testing2)
